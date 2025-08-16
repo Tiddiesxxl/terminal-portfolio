@@ -34,7 +34,7 @@ A stunning, interactive terminal-style portfolio website with anime-inspired aes
 
 ## 🚀 **Live Demo**
 
-Visit the live portfolio: [https://tiddiesxxl.github.io/terminal-portfolio](https://tiddiesxxl.github.io/terminal-portfolio)
+Visit the live portfolio: [https://rika.ayubxxl.site/portfolio](https://rika.ayubxxl.site/portfolio)
 
 ## 📋 **Available Commands**
 
